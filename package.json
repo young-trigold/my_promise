@@ -1,0 +1,11 @@
+{
+  "name": "my_promise",
+  "version": "1.0.0",
+  "description": "promise in es5 conformed with specification",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
