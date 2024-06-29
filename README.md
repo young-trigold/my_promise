@@ -1,1 +1,1 @@
-# promise in ECMAScript Sepecification 2025
+# promise in ECMAScript Specification 2025
