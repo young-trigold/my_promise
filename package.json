@@ -2,7 +2,7 @@
   "name": "my_promise",
   "version": "1.0.0",
   "description": "promise in es5 conformed with specification",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
   },
   "keywords": [],
